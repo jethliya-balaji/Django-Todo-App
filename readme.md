@@ -70,3 +70,6 @@ The app is a great starting point for anyone looking to build a simple Todo app 
 
 ### Fun Section
 The web site is up and running [here]() but it may be temporarily down because the developer needs a coffee break. If you find the app helpful, feel free to buy the developer a coffee!
+
+## Authors
+Balaji Jethliya - Initial work - [GitHub](https://github.com/jethliya-balaji), [Twitter](https://twitter.com/jethliyabalaji)
